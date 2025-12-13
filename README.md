@@ -64,8 +64,8 @@ This repository is intended for:
 
 ## Author
 **Vikas Sidhu**
-Undergraduate Physics Student
-Interested in Computational Physics, Theoretical Physics and Scientific Computing
+- Undergraduate Physics Student
+- Interested in Computational Physics, Theoretical - Physics and Scientific Computing
 
 
 ---
